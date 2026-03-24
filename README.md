@@ -47,14 +47,14 @@ What I believe: **data should tell a story, not just sit in a table.**
 
 ## 🚀 Featured Projects
 
-| Project | Description | Stack | Live |
-|---|---|---|---|
-| [📦 E-Commerce Dashboard](./ecommerce-sales-powerbi-dashboard) | Interactive sales analytics with real-time filters | Python · Dash · Plotly | [![Demo](https://img.shields.io/badge/Demo-4361ee?style=flat-square)](#) |
-| [🧠 Churn Prediction ML](./customer-churn-prediction-ml) | End-to-end ML pipeline — 3 models compared, ROC, feature importance | Scikit-learn · XGBoost | [![Demo](https://img.shields.io/badge/Demo-4361ee?style=flat-square)](#) |
-| [📈 Demand Forecasting](./retail-demand-forecasting-python) | ARIMA + Prophet time series with 12-week forecast | Statsmodels · Prophet | [![Demo](https://img.shields.io/badge/Demo-4361ee?style=flat-square)](#) |
-| [🔗 ETL Pipeline](./automated-etl-pipeline-python) | Automated Extract → Clean → Load → PDF Report pipeline | Pandas · SQLite · ReportLab | [![Demo](https://img.shields.io/badge/Demo-4361ee?style=flat-square)](#) |
-| [💰 Financial KPI Dashboard](./financial-kpi-dashboard) | 24-month SaaS unit economics — MRR, LTV, CAC, Runway | Plotly · Excel | [![Demo](https://img.shields.io/badge/Demo-4361ee?style=flat-square)](#) |
-| [📣 Marketing Analytics](./marketing-analytics-ga4-meta) | Full-year channel attribution — ROAS, CAC, funnel | Plotly · Pandas | [![Demo](https://img.shields.io/badge/Demo-4361ee?style=flat-square)](#) |
+| Project | Description | Stack |
+|---|---|---|
+| [📦 E-Commerce Dashboard](./ecommerce-sales-powerbi-dashboard) | Interactive sales analytics with real-time filters | Python · Dash · Plotly |
+| [🧠 Churn Prediction ML](./customer-churn-prediction-ml) | End-to-end ML pipeline — 3 models compared, ROC, feature importance | Scikit-learn · XGBoost |
+| [📈 Demand Forecasting](./retail-demand-forecasting-python) | ARIMA + Prophet time series with 12-week forecast | Statsmodels · Prophet |
+| [🔗 ETL Pipeline](./automated-etl-pipeline-python) | Automated Extract → Clean → Load → PDF Report pipeline | Pandas · SQLite · ReportLab |
+| [💰 Financial KPI Dashboard](./financial-kpi-dashboard) | 24-month SaaS unit economics — MRR, LTV, CAC, Runway | Plotly · Excel |
+| [📣 Marketing Analytics](./marketing-analytics-ga4-meta) | Full-year channel attribution — ROAS, CAC, funnel | Plotly · Pandas |
 
 ---
 
@@ -81,20 +81,7 @@ What I believe: **data should tell a story, not just sit in a table.**
   <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white"/>
 </p>
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jkchhabra&show_icons=true&theme=default&hide_border=true&title_color=4361ee&icon_color=4361ee" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jkchhabra&hide_border=true&ring=4361ee&fire=4361ee&currStreakLabel=4361ee" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkchhabra&layout=compact&hide_border=true&title_color=4361ee&langs_count=6" width="40%" />
-</p>
-
----
 
 ## 💼 Open for Freelance
 
@@ -107,18 +94,10 @@ I'm actively taking on freelance analytics projects. Here's what I typically hel
 - 🔹 **Marketing Analytics** — Channel attribution, ROAS, GA4, Meta Ads
 - 🔹 **Data Strategy** — Help early-stage teams set up their data infrastructure
 
-📬 Reach me on **[Upwork](#)** or email at **chhabra.lovish@gmail.com**
+📬 Reach me on **[Upwork](#)** or email at **jsinfo618@gmail.com**
+
 
 ---
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jkchhabra&theme=minimal&hide_border=true&color=4361ee&line=4361ee&point=4361ee" width="100%" />
-</p>
-
----
-
 <p align="center">
   <i>"The goal is to turn data into information, and information into insight." — Carly Fiorina</i>
 </p>
@@ -126,3 +105,4 @@ I'm actively taking on freelance analytics projects. Here's what I typically hel
 <p align="center">
   <strong>Let's build something data-driven together. 🚀</strong>
 </p>
+
