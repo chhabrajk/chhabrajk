@@ -5,10 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/lovish-chhabra/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
+  
   <a href="https://www.upwork.com">
     <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" />
   </a>
