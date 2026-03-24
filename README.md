@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm JK Chhabra 👋</h1>
 
 <p align="center">
-  <strong>Senior Data Analytics Professional &nbsp;|&nbsp; 10 Years Experience &nbsp;|&nbsp; Freelance Consultant</strong>
+  <strong>Senior Data Analytics Professional &nbsp;|&nbsp; 10+ Years Experience &nbsp;|&nbsp; Freelance Consultant</strong>
 </p>
 
 <p align="center">
@@ -13,14 +13,12 @@
     <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:chhabra.lovish@gmail.com">
+  <a href="mailto:jsinfo618@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jkchhabra&style=flat-square&color=4361ee" alt="Profile views" />
-</p>
+
 
 ---
 
